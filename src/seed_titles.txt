@@ -1,0 +1,13 @@
+# Placeholder starting sample for the Wayback harvester — edit freely.
+# Mix of neutral topics (as a baseline/control) and topics flagged by prior
+# research (CEPR DP21698) as likely to have been rewritten: Russia's image
+# abroad, domestic politics/opposition, and war/Ukraine-related topics.
+
+Россия
+Москва
+Вторжение России на Украину (2022)
+Алексей Навальный
+Владимир Путин
+Крым
+Права человека в России
+Цензура в России

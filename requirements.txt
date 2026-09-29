@@ -1,0 +1,28 @@
+# Python 3.11+
+# Install: pip install -r requirements.txt
+
+# Core data
+pandas
+numpy
+pyarrow
+
+# Notebooks
+jupyterlab
+ipykernel
+ipywidgets
+
+# Utilities
+tqdm
+requests
+
+# MediaWiki
+mwclient
+mwparserfromhell
+
+# Diffing (for later steps)
+diff-match-patch
+lxml
+beautifulsoup4
+
+# Analysis / viz
+matplotlib
